@@ -1,6 +1,5 @@
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=googlecloud)
 ![Shell](https://img.shields.io/badge/Shell-Script-green?logo=gnubash)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 # Automated-Cloud-Infra-Deployment-on-GCP
 # Project Overview
